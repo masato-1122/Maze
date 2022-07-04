@@ -1,0 +1,9 @@
+C:\Users\fit-user\Desktop\Maze\Maze\UIMaze\bin\Debug\UIMaze.exe
+C:\Users\fit-user\Desktop\Maze\Maze\UIMaze\bin\Debug\UIMaze.pdb
+C:\Users\fit-user\Desktop\Maze\Maze\UIMaze\obj\Debug\UIMaze.csproj.AssemblyReference.cache
+C:\Users\fit-user\Desktop\Maze\Maze\UIMaze\obj\Debug\UIMaze.FormUIMaze.resources
+C:\Users\fit-user\Desktop\Maze\Maze\UIMaze\obj\Debug\UIMaze.Properties.Resources.resources
+C:\Users\fit-user\Desktop\Maze\Maze\UIMaze\obj\Debug\UIMaze.csproj.GenerateResource.cache
+C:\Users\fit-user\Desktop\Maze\Maze\UIMaze\obj\Debug\UIMaze.csproj.CoreCompileInputs.cache
+C:\Users\fit-user\Desktop\Maze\Maze\UIMaze\obj\Debug\UIMaze.exe
+C:\Users\fit-user\Desktop\Maze\Maze\UIMaze\obj\Debug\UIMaze.pdb
